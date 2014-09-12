@@ -1,0 +1,1615 @@
+<!DOCTYPE html>
+
+
+<html lang="en" dir="ltr" class="client-nojs">
+
+
+<head>
+
+
+<title>
+Clear - Wikipedia, the free encyclopedia
+</title>
+
+
+<meta charset="UTF-8" />
+
+
+<meta name="generator" content="MediaWiki 1.21wmf6" />
+
+
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=edit" />
+
+
+<link rel="edit" title="Edit this page" href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=edit" />
+
+
+<link rel="apple-touch-icon" href="http://en.wikipedia.org//en.wikipedia.org/apple-touch-icon.png" />
+
+
+<link rel="shortcut icon" href="http://en.wikipedia.org/favicon.ico" />
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://en.wikipedia.org/w/opensearch_desc.php" title="Wikipedia (en)" />
+
+
+<link rel="EditURI" type="application/rsd+xml" href="http://en.wikipedia.org//en.wikipedia.org/w/api.php?action=rsd" />
+
+
+<link rel="copyright" href="http://en.wikipedia.org//creativecommons.org/licenses/by-sa/3.0/" />
+
+
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+
+
+<link rel="stylesheet" href="http://en.wikipedia.org//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.geshi.local%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+
+
+<meta name="ResourceLoaderDynamicStyles" content="" />
+
+
+<link rel="stylesheet" href="http://en.wikipedia.org//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+
+
+<style>
+a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */
+</style>
+
+
+
+<script src="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+</script>
+
+
+<script>
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Clear","wgTitle":"Clear","wgCurRevisionId":522256161,"wgArticleId":2353564,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All article disambiguation pages","All disambiguation pages","Disambiguation pages","Article Feedback Blacklist"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Clear","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"0525564f0c843e4add54b1a6e38e74a3","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wgVisualEditor":{"isPageWatched":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2353564,"title":"Clear","namespace":0,"categories":["All article disambiguation pages","All disambiguation pages","Article Feedback Blacklist","Disambiguation pages"],"permissionLevel":"aft-reader"}});
+}
+</script>
+<script>
+if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"wikilove-enabled":1,"echo-email-notificationspagetriage-mark-as-reviewed":true,"echo-email-notificationspagetriage-add-maintenance-tag":true,"echo-email-notificationspagetriage-add-deletion-tag":true,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false
+,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-HotCat":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:19e64e7d3e84450cdd6aaeece6e56fab */
+}
+</script>
+
+
+<script>
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}
+</script>
+
+
+<style type="text/css">
+/*
+<![CDATA[*/
+.source-text {line-height: normal;}
+.source-text li, .source-text pre {
+	line-height: normal; border: 0px none white;
+}
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for text
+ * CSS class: source-text, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2008 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.text.source-text .de1, .text.source-text .de2 {font: normal normal 1em/1.2em monospace; margin:0; padding:0; background:none; vertical-align:top;}
+.text.source-text  {font-family:monospace;}
+.text.source-text .imp {font-weight: bold; color: red;}
+.text.source-text li, .text.source-text .li1 {font-weight: normal; vertical-align:top;}
+.text.source-text .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.text.source-text .li2 {font-weight: bold; vertical-align:top;}
+.text.source-text .ln-xtra, .text.source-text li.ln-xtra, .text.source-text div.ln-xtra {background-color: #ffc;}
+.text.source-text span.xtra { display:block; }
+
+/*]]>
+*/
+
+</style>
+<script src="http://bits.wikimedia.org/geoiplookup">
+</script>
+<link rel="dns-prefetch" href="http://en.wikipedia.org//meta.wikimedia.org" />
+<!--[if lt IE 7]>
+<style type="text/css">
+body{behavior:url("/w/skins-1.21wmf6/vector/csshover.min.htc")}
+</style>
+<![endif]-->
+</head>
+
+
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Clear skin-vector action-view vector-animateLayout">
+
+		
+<div id="mw-page-base" class="noprint">
+</div>
+
+		
+<div id="mw-head-base" class="noprint">
+</div>
+
+		
+<!-- content -->
+
+		
+<div id="content" class="mw-body" role="main">
+
+			
+<a id="top">
+</a>
+
+			
+<div id="mw-js-message" style="display:none;">
+</div>
+
+						
+<!-- sitenotice -->
+
+			
+<div id="siteNotice">
+<!-- CentralNotice -->
+<script>
+
+	mw.loader.using( 'ext.centralNotice.bannerController', function() { mw.centralNotice.initialize(); } );
+
+</script>
+
+
+</div>
+
+			
+<!-- /sitenotice -->
+
+						
+<!-- firstHeading -->
+
+			
+<h1 id="firstHeading" class="firstHeading" lang="en">
+<span dir="auto">
+Clear
+</span>
+</h1>
+
+			
+<!-- /firstHeading -->
+
+			
+<!-- bodyContent -->
+
+			
+<div id="bodyContent">
+
+								
+<!-- tagline -->
+
+				
+<div id="siteSub">
+From Wikipedia, the free encyclopedia
+</div>
+
+				
+<!-- /tagline -->
+
+								
+<!-- subtitle -->
+
+				
+<div id="contentSub">
+</div>
+
+				
+<!-- /subtitle -->
+
+																
+<!-- jumpto -->
+
+				
+<div id="jump-to-nav" class="mw-jump">
+
+					Jump to:					
+<a href="http://en.wikipedia.org#mw-head">
+navigation
+</a>
+, 					
+<a href="http://en.wikipedia.org#p-search">
+search
+</a>
+
+				
+</div>
+
+				
+<!-- /jumpto -->
+
+								
+<!-- bodycontent -->
+
+				
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+
+
+<tr>
+
+
+<td class="mbox-image">
+<img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png" width="37" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/55px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/73px-Wiktionary-logo-en.svg.png 2x" />
+</td>
+
+
+<td class="mbox-text plainlist" style="">
+Look up 
+<i>
+<b>
+<a href="http://en.wikipedia.org//en.wiktionary.org/wiki/clear" class="extiw" title="wiktionary:clear">
+clear
+</a>
+</b>
+</i>
+ in Wiktionary, the free dictionary.
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+<p>
+<b>
+Clear
+</b>
+ may refer to:
+</p>
+
+
+<div style="clear: right; margin-bottom: .5em; float: right; padding: .5em 0 .8em 1.4em; background: none; width: auto;">
+
+
+<table id="toc" class="toc">
+
+
+<tr>
+
+
+<td>
+
+
+<div id="toctitle">
+
+
+<h2>
+Contents
+</h2>
+
+
+</div>
+
+
+<ul>
+
+
+<li class="toclevel-1 tocsection-1">
+<a href="http://en.wikipedia.org#Music">
+<span class="tocnumber">
+1
+</span>
+ 
+<span class="toctext">
+Music
+</span>
+</a>
+</li>
+
+
+<li class="toclevel-1 tocsection-2">
+<a href="http://en.wikipedia.org#Technology">
+<span class="tocnumber">
+2
+</span>
+ 
+<span class="toctext">
+Technology
+</span>
+</a>
+</li>
+
+
+<li class="toclevel-1 tocsection-3">
+<a href="http://en.wikipedia.org#Other">
+<span class="tocnumber">
+3
+</span>
+ 
+<span class="toctext">
+Other
+</span>
+</a>
+</li>
+
+
+<li class="toclevel-1 tocsection-4">
+<a href="http://en.wikipedia.org#See_also">
+<span class="tocnumber">
+4
+</span>
+ 
+<span class="toctext">
+See also
+</span>
+</a>
+</li>
+
+
+</ul>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+</div>
+
+
+<h3>
+<span class="editsection">
+[
+<a href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=edit&amp;section=1" title="Edit section: Music">
+edit
+</a>
+]
+</span>
+ 
+<span class="mw-headline" id="Music">
+Music
+</span>
+</h3>
+
+
+<ul>
+
+
+<li>
+"Clear", a song from the 2007 Hannah Montana/Miley Cyrus album 
+<i>
+<a href="http://en.wikipedia.org/wiki/Hannah_Montana_2:_Meet_Miley_Cyrus" title="Hannah Montana 2: Meet Miley Cyrus">
+Hannah Montana 2: Meet Miley Cyrus
+</a>
+</i>
+</li>
+
+
+<li>
+"
+<a href="http://en.wikipedia.org/wiki/Clear!" title="Clear!">
+Clear!
+</a>
+", a 2009 single from the Kardinal Offishall album 
+<i>
+Mr. International
+</i>
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clear_(band)" title="Clear (band)">
+Clear (band)
+</a>
+, a vegan straight edge hardcore group from Utah
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clear_(Bomb_the_Bass_album)" title="Clear (Bomb the Bass album)">
+<i>
+Clear
+</i>
+ (Bomb the Bass album)
+</a>
+, a 1995 album by Bomb the Bass
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clear_(Christian_band)" title="Clear (Christian band)">
+Clear (Christian band)
+</a>
+, an American CCM group from Cambridge, Minnesota
+</li>
+
+
+<li>
+Clear Entertainment (also C.E. Music), a record label owned by 
+<a href="http://en.wikipedia.org/wiki/Worldwide_Pants_Incorporated" title="Worldwide Pants Incorporated">
+Worldwide Pants Incorporated
+</a>
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clear_(song)" title="Clear (song)">
+"Clear" (song)
+</a>
+, a 1983 single from the Cybotron album 
+<i>
+Clear
+</i>
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clear_(Spirit_album)" title="Clear (Spirit album)">
+<i>
+Clear
+</i>
+ (Spirit album)
+</a>
+, a 1969 album by Spirit
+</li>
+
+
+</ul>
+
+
+<h2>
+<span class="editsection">
+[
+<a href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=edit&amp;section=2" title="Edit section: Technology">
+edit
+</a>
+]
+</span>
+ 
+<span class="mw-headline" id="Technology">
+Technology
+</span>
+</h2>
+
+
+<ul>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Citizen_Law_Enforcement_Analysis_and_Reporting" title="Citizen Law Enforcement Analysis and Reporting">
+Citizen Law Enforcement Analysis and Reporting
+</a>
+, a system of relational databases used by the Chicago Police Department
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clearwire" title="Clearwire">
+Clearwire
+</a>
+, wireless internet service products provided in the United States, Belgium, and Spain marketed as CLEAR
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/CLEAR_Framework_for_Enterprise_Architecture" title="CLEAR Framework for Enterprise Architecture">
+CLEAR Framework for Enterprise Architecture
+</a>
+, an Enterprise Architecture meta-model
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clear_(Unix)" title="Clear (Unix)">
+<code>
+<span class="mw-geshi text source-text">
+clear
+</span>
+</code>
+ (Unix)
+</a>
+, a standard Unix computer operating system command which is used to clear the screen
+</li>
+
+
+</ul>
+
+
+<h2>
+<span class="editsection">
+[
+<a href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=edit&amp;section=3" title="Edit section: Other">
+edit
+</a>
+]
+</span>
+ 
+<span class="mw-headline" id="Other">
+Other
+</span>
+</h2>
+
+
+<ul>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clear_(visual_novel)" title="Clear (visual novel)">
+<i>
+Clear
+</i>
+ (visual novel)
+</a>
+, a 2007 adult Japanese visual novel
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Cannabis_Law_Reform" title="Cannabis Law Reform">
+Cannabis Law Reform
+</a>
+ (CLEAR), a United Kingdom political party which campaigns against cannabis prohibition
+</li>
+
+
+<li>
+Clear, an 
+<a href="http://en.wikipedia.org/wiki/Registered_Traveler#Clear" title="Registered Traveler">
+airport registered traveler program
+</a>
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clear,_Alaska" title="Clear, Alaska">
+Clear, Alaska
+</a>
+ is an unincorporated community in Denali Borough, Alaska, United States
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clear_(Scientology)" title="Clear (Scientology)">
+Clear (Scientology)
+</a>
+, one of two levels a practitioner can achieve on the way to personal salvation
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Tetrahydrogestrinone" title="Tetrahydrogestrinone">
+Tetrahydrogestrinone
+</a>
+ (also "The Clear"), an anabolic steroid developed by Patrick Arnold
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clear_(magazine)" title="Clear (magazine)">
+<i>
+Clear
+</i>
+ (magazine)
+</a>
+, a fashion, art and luxury and design magazine
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clear_(UK_company)" title="Clear (UK company)">
+Clear (UK company)
+</a>
+, a UK-based carbon offsetting company
+</li>
+
+
+</ul>
+
+
+<h2>
+<span class="editsection">
+[
+<a href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=edit&amp;section=4" title="Edit section: See also">
+edit
+</a>
+]
+</span>
+ 
+<span class="mw-headline" id="See_also">
+See also
+</span>
+</h2>
+
+
+<ul>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Claro_(surname)" title="Claro (surname)">
+Claro (surname)
+</a>
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clear_channel_(disambiguation)" title="Clear channel (disambiguation)" class="mw-redirect">
+Clear channel (disambiguation)
+</a>
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clearance_(disambiguation)" title="Clearance (disambiguation)" class="mw-redirect">
+Clearance (disambiguation)
+</a>
+</li>
+
+
+<li>
+<a href="http://en.wikipedia.org/wiki/Clearing_(disambiguation)" title="Clearing (disambiguation)" class="mw-redirect">
+Clearing (disambiguation)
+</a>
+</li>
+
+
+</ul>
+
+
+<table id="disambigbox" class="metadata plainlinks dmbox dmbox-disambig" style="">
+
+
+<tr>
+
+
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;">
+<a href="http://en.wikipedia.org/wiki/File:Disambig_gray.svg" class="image">
+<img alt="Disambiguation icon" src="http://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png" width="30" height="23" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/45px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/60px-Disambig_gray.svg.png 2x" />
+</a>
+</td>
+
+
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;">
+This 
+<a href="http://en.wikipedia.org/wiki/Help:Disambiguation" title="Help:Disambiguation">
+disambiguation
+</a>
+ page lists articles associated with the same title.
+<br />
+
+
+<small>
+If an 
+<a class="external text" href="http://en.wikipedia.org//en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Clear&amp;namespace=0">
+internal link
+</a>
+ led you here, you may wish to change the link to point directly to the intended article.
+</small>
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 1264/1000000
+Preprocessor generated node count: 4715/1500000
+Post-expand include size: 4242/2048000 bytes
+Template argument size: 1136/2048000 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 0/500
+-->
+
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2353564-0!*!0!!en!4!* and timestamp 20130102222702 -->
+
+
+</div>
+				
+<!-- /bodycontent -->
+
+								
+<!-- printfooter -->
+
+				
+<div class="printfooter">
+
+				Retrieved from "
+<a href="http://en.wikipedia.orghttp://en.wikipedia.org/w/index.php?title=Clear&amp;oldid=522256161">
+http://en.wikipedia.org/w/index.php?title=Clear&amp;oldid=522256161
+</a>
+"				
+</div>
+
+				
+<!-- /printfooter -->
+
+												
+<!-- catlinks -->
+
+				
+<div id='catlinks' class='catlinks'>
+<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+<a href="http://en.wikipedia.org/wiki/Special:Categories" title="Special:Categories">
+Categories
+</a>
+: 
+<ul>
+<li>
+<a href="http://en.wikipedia.org/wiki/Category:Disambiguation_pages" title="Category:Disambiguation pages">
+Disambiguation pages
+</a>
+</li>
+</ul>
+</div>
+<div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+Hidden categories: 
+<ul>
+<li>
+<a href="http://en.wikipedia.org/wiki/Category:All_article_disambiguation_pages" title="Category:All article disambiguation pages">
+All article disambiguation pages
+</a>
+</li>
+<li>
+<a href="http://en.wikipedia.org/wiki/Category:All_disambiguation_pages" title="Category:All disambiguation pages">
+All disambiguation pages
+</a>
+</li>
+<li>
+<a href="http://en.wikipedia.org/wiki/Category:Article_Feedback_Blacklist" title="Category:Article Feedback Blacklist">
+Article Feedback Blacklist
+</a>
+</li>
+</ul>
+</div>
+</div>
+				
+<!-- /catlinks -->
+
+												
+<div class="visualClear">
+</div>
+
+				
+<!-- debughtml -->
+
+								
+<!-- /debughtml -->
+
+			
+</div>
+
+			
+<!-- /bodyContent -->
+
+		
+</div>
+
+		
+<!-- /content -->
+
+		
+<div id="mw-navigation">
+
+			
+<h2>
+Navigation menu
+</h2>
+
+			
+<!-- header -->
+
+			
+<div id="mw-head" class="noprint">
+
+				
+
+<!-- 0 -->
+
+
+<div id="p-personal" role="navigation" class="">
+
+	
+<h3>
+Personal tools
+</h3>
+
+	
+<ul>
+
+
+<li id="pt-createaccount">
+<a href="http://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Clear&amp;type=signup">
+Create account
+</a>
+</li>
+<li id="pt-login">
+<a href="http://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Clear" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">
+Log in
+</a>
+</li>
+	
+</ul>
+
+
+</div>
+
+
+
+<!-- /0 -->
+
+				
+<div id="left-navigation">
+
+					
+
+<!-- 0 -->
+
+
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+
+	
+<h3>
+Namespaces
+</h3>
+
+	
+<ul>
+
+					
+<li  id="ca-nstab-main" class="selected">
+<span>
+<a href="http://en.wikipedia.org/wiki/Clear"  title="View the content page [c]" accesskey="c">
+Article
+</a>
+</span>
+</li>
+
+					
+<li  id="ca-talk">
+<span>
+<a href="http://en.wikipedia.org/wiki/Talk:Clear"  title="Discussion about the content page [t]" accesskey="t">
+Talk
+</a>
+</span>
+</li>
+
+			
+</ul>
+
+
+</div>
+
+
+
+<!-- /0 -->
+
+
+
+<!-- 1 -->
+
+
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+
+	
+<h3 id="mw-vector-current-variant">
+
+		
+</h3>
+
+	
+<h3>
+<span>
+Variants
+</span>
+<a href="http://en.wikipedia.org#">
+</a>
+</h3>
+
+	
+<div class="menu">
+
+		
+<ul>
+
+					
+</ul>
+
+	
+</div>
+
+
+</div>
+
+
+
+<!-- /1 -->
+
+				
+</div>
+
+				
+<div id="right-navigation">
+
+					
+
+<!-- 0 -->
+
+
+<div id="p-views" role="navigation" class="vectorTabs">
+
+	
+<h3>
+Views
+</h3>
+
+	
+<ul>
+
+					
+<li id="ca-view" class="selected">
+<span>
+<a href="http://en.wikipedia.org/wiki/Clear" >
+Read
+</a>
+</span>
+</li>
+
+					
+<li id="ca-edit">
+<span>
+<a href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">
+Edit
+</a>
+</span>
+</li>
+
+					
+<li id="ca-history" class="collapsible">
+<span>
+<a href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=history"  title="Past versions of this page [h]" accesskey="h">
+View history
+</a>
+</span>
+</li>
+
+			
+</ul>
+
+
+</div>
+
+
+
+<!-- /0 -->
+
+
+
+<!-- 1 -->
+
+
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+
+	
+<h3>
+<span>
+Actions
+</span>
+<a href="http://en.wikipedia.org#">
+</a>
+</h3>
+
+	
+<div class="menu">
+
+		
+<ul>
+
+					
+</ul>
+
+	
+</div>
+
+
+</div>
+
+
+
+<!-- /1 -->
+
+
+
+<!-- 2 -->
+
+
+<div id="p-search" role="search">
+
+	
+<h3>
+<label for="searchInput">
+Search
+</label>
+</h3>
+
+	
+<form action="/w/index.php" id="searchform">
+
+				
+<div id="simpleSearch">
+
+						
+<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />
+						
+<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton">
+<img src="http://bits.wikimedia.org/static-1.21wmf6/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" />
+</button>
+								
+<input type='hidden' name="title" value="Special:Search"/>
+
+		
+</div>
+
+	
+</form>
+
+
+</div>
+
+
+
+<!-- /2 -->
+
+				
+</div>
+
+			
+</div>
+
+			
+<!-- /header -->
+
+			
+<!-- panel -->
+
+			
+<div id="mw-panel" class="noprint">
+
+				
+<!-- logo -->
+
+					
+<div id="p-logo" role="banner">
+<a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="http://en.wikipedia.org/wiki/Main_Page"  title="Visit the main page">
+</a>
+</div>
+
+				
+<!-- /logo -->
+
+				
+
+<!-- navigation -->
+
+
+<div class="portal" role="navigation" id='p-navigation'>
+
+	
+<h3>
+Navigation
+</h3>
+
+	
+<div class="body">
+
+		
+<ul>
+
+			
+<li id="n-mainpage-description">
+<a href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+Main page
+</a>
+</li>
+
+			
+<li id="n-contents">
+<a href="http://en.wikipedia.org/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+Contents
+</a>
+</li>
+
+			
+<li id="n-featuredcontent">
+<a href="http://en.wikipedia.org/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+Featured content
+</a>
+</li>
+
+			
+<li id="n-currentevents">
+<a href="http://en.wikipedia.org/wiki/Portal:Current_events" title="Find background information on current events">
+Current events
+</a>
+</li>
+
+			
+<li id="n-randompage">
+<a href="http://en.wikipedia.org/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+Random article
+</a>
+</li>
+
+			
+<li id="n-sitesupport">
+<a href="http://en.wikipedia.org//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">
+Donate to Wikipedia
+</a>
+</li>
+
+		
+</ul>
+
+	
+</div>
+
+
+</div>
+
+
+
+<!-- /navigation -->
+
+
+
+<!-- SEARCH -->
+
+
+
+<!-- /SEARCH -->
+
+
+
+<!-- interaction -->
+
+
+<div class="portal" role="navigation" id='p-interaction'>
+
+	
+<h3>
+Interaction
+</h3>
+
+	
+<div class="body">
+
+		
+<ul>
+
+			
+<li id="n-help">
+<a href="http://en.wikipedia.org/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+Help
+</a>
+</li>
+
+			
+<li id="n-aboutsite">
+<a href="http://en.wikipedia.org/wiki/Wikipedia:About" title="Find out about Wikipedia">
+About Wikipedia
+</a>
+</li>
+
+			
+<li id="n-portal">
+<a href="http://en.wikipedia.org/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+Community portal
+</a>
+</li>
+
+			
+<li id="n-recentchanges">
+<a href="http://en.wikipedia.org/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+Recent changes
+</a>
+</li>
+
+			
+<li id="n-contact">
+<a href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+Contact Wikipedia
+</a>
+</li>
+
+		
+</ul>
+
+	
+</div>
+
+
+</div>
+
+
+
+<!-- /interaction -->
+
+
+
+<!-- TOOLBOX -->
+
+
+<div class="portal" role="navigation" id='p-tb'>
+
+	
+<h3>
+Toolbox
+</h3>
+
+	
+<div class="body">
+
+		
+<ul>
+
+			
+<li id="t-whatlinkshere">
+<a href="http://en.wikipedia.org/wiki/Special:WhatLinksHere/Clear" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+What links here
+</a>
+</li>
+
+			
+<li id="t-recentchangeslinked">
+<a href="http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Clear" title="Recent changes in pages linked from this page [k]" accesskey="k">
+Related changes
+</a>
+</li>
+
+			
+<li id="t-upload">
+<a href="http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+Upload file
+</a>
+</li>
+
+			
+<li id="t-specialpages">
+<a href="http://en.wikipedia.org/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+Special pages
+</a>
+</li>
+
+			
+<li id="t-permalink">
+<a href="http://en.wikipedia.org/w/index.php?title=Clear&amp;oldid=522256161" title="Permanent link to this revision of the page">
+Permanent link
+</a>
+</li>
+
+			
+<li id="t-info">
+<a href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=info">
+Page information
+</a>
+</li>
+
+
+<li id="t-cite">
+<a href="http://en.wikipedia.org/w/index.php?title=Special:Cite&amp;page=Clear&amp;id=522256161" title="Information on how to cite this page">
+Cite this page
+</a>
+</li>
+		
+</ul>
+
+	
+</div>
+
+
+</div>
+
+
+
+<!-- /TOOLBOX -->
+
+
+
+<!-- coll-print_export -->
+
+
+<div class="portal" role="navigation" id='p-coll-print_export'>
+
+	
+<h3>
+Print/export
+</h3>
+
+	
+<div class="body">
+
+		
+<ul id="collectionPortletList">
+<li id="coll-create_a_book">
+<a href="http://en.wikipedia.org/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Clear" title="Create a book or page collection" rel="nofollow">
+Create a book
+</a>
+</li>
+<li id="coll-download-as-rl">
+<a href="http://en.wikipedia.org/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Clear&amp;oldid=522256161&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">
+Download as PDF
+</a>
+</li>
+<li id="t-print">
+<a href="http://en.wikipedia.org/w/index.php?title=Clear&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+Printable version
+</a>
+</li>
+</ul>
+	
+</div>
+
+
+</div>
+
+
+
+<!-- /coll-print_export -->
+
+
+
+<!-- LANGUAGES -->
+
+
+<div class="portal" role="navigation" id='p-lang'>
+
+	
+<h3>
+Languages
+</h3>
+
+	
+<div class="body">
+
+		
+<ul>
+
+			
+<li class="interwiki-de">
+<a href="http://en.wikipedia.org//de.wikipedia.org/wiki/Clear" title="Clear" lang="de" hreflang="de">
+Deutsch
+</a>
+</li>
+
+			
+<li class="interwiki-fr">
+<a href="http://en.wikipedia.org//fr.wikipedia.org/wiki/Clear" title="Clear" lang="fr" hreflang="fr">
+Français
+</a>
+</li>
+
+			
+<li class="interwiki-it">
+<a href="http://en.wikipedia.org//it.wikipedia.org/wiki/Clear" title="Clear" lang="it" hreflang="it">
+Italiano
+</a>
+</li>
+
+			
+<li class="interwiki-nl">
+<a href="http://en.wikipedia.org//nl.wikipedia.org/wiki/Helderheid" title="Helderheid" lang="nl" hreflang="nl">
+Nederlands
+</a>
+</li>
+
+			
+<li class="interwiki-ja">
+<a href="http://en.wikipedia.org//ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%A2" title="クリア" lang="ja" hreflang="ja">
+日本語
+</a>
+</li>
+
+			
+<li class="interwiki-simple">
+<a href="http://en.wikipedia.org//simple.wikipedia.org/wiki/Clear" title="Clear" lang="simple" hreflang="simple">
+Simple English
+</a>
+</li>
+
+			
+<li class="interwiki-zh">
+<a href="http://en.wikipedia.org//zh.wikipedia.org/wiki/Clear" title="Clear" lang="zh" hreflang="zh">
+中文
+</a>
+</li>
+
+		
+</ul>
+
+	
+</div>
+
+
+</div>
+
+
+
+<!-- /LANGUAGES -->
+
+			
+</div>
+
+			
+<!-- /panel -->
+
+		
+</div>
+
+		
+<!-- footer -->
+
+		
+<div id="footer" role="contentinfo">
+
+							
+<ul id="footer-info">
+
+											
+<li id="footer-info-lastmod">
+ This page was last modified on 10 November 2012 at 00:02.
+<br />
+</li>
+
+											
+<li id="footer-info-copyright">
+Text is available under the 
+<a rel="license" href="http://en.wikipedia.org//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+Creative Commons Attribution-ShareAlike License
+</a>
+<a rel="license" href="http://en.wikipedia.org//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+</a>
+;
+additional terms may apply.
+See 
+<a href="http://en.wikipedia.org//wikimediafoundation.org/wiki/Terms_of_Use">
+Terms of Use
+</a>
+ for details.
+<br/>
+
+Wikipedia® is a registered trademark of the 
+<a href="http://en.wikipedia.org//www.wikimediafoundation.org/">
+Wikimedia Foundation, Inc.
+</a>
+, a non-profit organization.
+<br />
+</li>
+<li class="noprint">
+<a class='internal' href="http://en.wikipedia.org//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+Contact us
+</a>
+</li>
+
+									
+</ul>
+
+							
+<ul id="footer-places">
+
+											
+<li id="footer-places-privacy">
+<a href="http://en.wikipedia.org//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">
+Privacy policy
+</a>
+</li>
+
+											
+<li id="footer-places-about">
+<a href="http://en.wikipedia.org/wiki/Wikipedia:About" title="Wikipedia:About">
+About Wikipedia
+</a>
+</li>
+
+											
+<li id="footer-places-disclaimer">
+<a href="http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+Disclaimers
+</a>
+</li>
+
+											
+<li id="footer-places-mobileview">
+<a href="http://en.wikipedia.orghttp://en.m.wikipedia.org/wiki/Clear" class="noprint stopMobileRedirectToggle">
+Mobile view
+</a>
+</li>
+
+									
+</ul>
+
+										
+<ul id="footer-icons" class="noprint">
+
+					
+<li id="footer-copyrightico">
+
+						
+<a href="http://en.wikipedia.org//wikimediafoundation.org/">
+<img src="http://bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+</a>
+
+					
+</li>
+
+					
+<li id="footer-poweredbyico">
+
+						
+<a href="http://en.wikipedia.org//www.mediawiki.org/">
+<img src="http://bits.wikimedia.org/static-1.21wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" />
+</a>
+
+					
+</li>
+
+				
+</ul>
+
+						
+<div style="clear:both">
+</div>
+
+		
+</div>
+
+		
+<!-- /footer -->
+
+		
+<script>
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+</script>
+
+
+<script src="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*">
+</script>
+
+
+<script>
+if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}
+</script>
+
+
+<script src="http:/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914">
+</script>
+
+
+<script src="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+</script>
+
+
+<!-- Served by mw41 in 0.106 secs. -->
+
+	
+</body>
+
+
+</html>
+
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1443917a-e64e-498c-90fa-4e5173b4188b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://api.microsofttranslator.com/V1/SOAP.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Soap.wsdl" MetadataType="Wsdl" ID="bef6b9b0-51a7-463a-b64b-1689fb5d9983" SourceId="1" SourceUrl="http://api.microsofttranslator.com/V1/SOAP.svc" />
+    <MetadataFile FileName="Soap.xsd" MetadataType="Schema" ID="bcf14a3f-77b0-44fb-b9ad-02c5d56812a7" SourceId="1" SourceUrl="http://api.microsofttranslator.com/V1/Soap.svc?xsd=xsd2" />
+    <MetadataFile FileName="Soap1.xsd" MetadataType="Schema" ID="83154467-431d-4c77-8b7f-2f053c8df911" SourceId="1" SourceUrl="http://api.microsofttranslator.com/V1/Soap.svc?xsd=xsd1" />
+    <MetadataFile FileName="Soap2.xsd" MetadataType="Schema" ID="114c66d3-f1da-46a1-916d-58d5bc424b47" SourceId="1" SourceUrl="http://api.microsofttranslator.com/V1/Soap.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,12 @@
+D:\Windows Applications\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\bin\Debug\Bing Translator.exe.config
+D:\Windows Applications\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\bin\Debug\Bing Translator.exe
+D:\Windows Applications\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\bin\Debug\Bing Translator.pdb
+D:\Windows Applications\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\ResolveAssemblyReference.cache
+D:\Windows Applications\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing_Translator.Form1.resources
+D:\Windows Applications\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing_Translator.Properties.Resources.resources
+D:\Windows Applications\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing Translator.csproj.GenerateResource.Cache
+D:\Windows Applications\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing Translator.exe
+D:\Windows Applications\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing Translator.pdb
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\bin\Debug\Bing Translator.exe.config
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing Translator.exe
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing Translator.pdb

@@ -1,0 +1,838 @@
+dir="ltr">
+ 
+ 
+Clear - Wikipedia, the free encyclopedia
+ 
+ 
+rel="alternate">
+ 
+rel="alternate" type="application/x-wiki">
+ 
+rel="edit">
+ 
+ 
+ 
+ 
+ 
+ 
+rel="copyright">
+ 
+rel="alternate" type="application/atom+xml">
+ 
+rel="canonical">
+ 
+rel="stylesheet">
+ 
+@-webkit-keyframes centralAuthPPersonalAnimation{0%{opacity:0;-webkit-transform:translateY(-20px)}100%{opacity:1;-webkit-transform:translateY(0)}}@-moz-keyframes centralAuthPPersonalAnimation{0%{opacity:0;-moz-transform:translateY(-20px)}100%{opacity:1;-moz-transform:translateY(0)}}@-o-keyframes centralAuthPPersonalAnimation{0%{opacity:0;-o-transform:translateY(-20px)}100%{opacity:1;-o-transform:translateY(0)}}@keyframes centralAuthPPersonalAnimation{0%{opacity:0;transform:translateY(-20px)}100%{opacity:1;transform:translateY(0)}}.centralAuthPPersonalAnimation{-webkit-animation-duration:1s;-moz-animation-duration:1s;-o-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;-moz-animation-fill-mode:both;-o-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation-name:centralAuthPPersonalAnimation;-moz-animation-name:centralAuthPPersonalAnimation;-o-animation-name:centralAuthPPersonalAnimation;animation-name:centralAuthPPersonalAnimation}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0dcacc990dd02e7db9669ab3090b80f1 */
+.mw-editsection{white-space:nowrap; unicode-bidi:-moz-isolate;unicode-bidi:-webkit-isolate;unicode-bidi:isolate}.mw-editsection-divider{color:#555}.ve-tabmessage-appendix{font-size:0.7em;vertical-align:top;line-height:1.43em;padding-left:0.5em; background-image:none !important;display:inline !important}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:50c6a67a11952da7c9e5053046d794ee */
+.uls-menu a{cursor:pointer}.uls-menu.callout .caret-before{border-top:20px solid transparent;border-right:20px solid #C9C9C9;border-bottom:20px solid transparent;display:inline-block;left:-21px;top:30px;position:absolute}.uls-menu.callout .caret-after{border-top:20px solid transparent;border-right:20px solid #FCFCFC;border-bottom:20px solid transparent;display:inline-block;left:-20px;top:30px;position:absolute}.uls-ui-languages button{width:23%;text-overflow:ellipsis;margin-right:4%}button.uls-more-languages{width:auto}.settings-title{font-size:11pt}.settings-text{color:#555555;font-size:9pt}div.display-settings-block:hover .settings-text{color:#252525}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:22d1681fa868b4ff4fbcb1ec1e58a9ea */
+.tipsy{padding:5px;position:absolute;z-index:100000;cursor:default}.tipsy-inner{padding:5px 8px 4px 8px; background-color:#ffffff;border:solid 1px #a7d7f9;color:black;max-width:15em;border-radius:4px; }.tipsy-arrow{position:absolute;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALAgMAAADUwp+1AAAACVBMVEX5+fmn1/n///9s6BFKAAAAAXRSTlMAQObYZgAAACpJREFUCB1jZBD4wMiQMoeRcUU4I9uSaYxSE54xZjn8AtMgPkgcJA9UBwAeDw1Qrb3pVAAAAABJRU5ErkJggg==) no-repeat top left;background:url(//bits.wikimedia.org/static-1.24wmf20/resources/src/jquery.tipsy/images/tipsy.png?2014-09-04T17:10:00Z) no-repeat top left!ie;width:11px;height:6px}.tipsy-n .tipsy-arrow{top:0px;left:50%;margin-left:-5px}.tipsy-nw .tipsy-arrow{top:1px;left:10px}.tipsy-ne .tipsy-arrow{top:1px;right:10px}.tipsy-s .tipsy-arrow{bottom:0px;left:50%;margin-left:-5px;background-position:bottom left}.tipsy-sw .tipsy-arrow{bottom:0px;left:10px;background-position:bottom left}.tipsy-se .tipsy-arrow{bottom:0px;right:10px;background-position:bottom left}.tipsy-e .tipsy-arrow{top:50%;margin-top:-5px;right:1px;width:5px;height:11px;background-position:top right}.tipsy-w .tipsy-arrow{top:50%;margin-top:-5px;left:0px;width:6px;height:11px} .tipsy{font-size:0.8em}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:292cb5b59146a66828cf8f59553bcc7f */
+@media print{#centralNotice{display:none}}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:ddb0c98a055632ae8e349c9cf48ac703 */
+.postedit-container{margin:0 auto;position:fixed;top:0;height:0;left:50%;z-index:1000;font-size:13px}.postedit-container:hover{cursor:pointer}.postedit{position:relative;top:0.6em;left:-50%;padding:.6em 3.6em .6em 1.1em;line-height:1.5625em;color:#626465;background-color:#f4f4f4;border:1px solid #dcd9d9;text-shadow:0 0.0625em 0 rgba(255,255,255,0.5);border-radius:5px;box-shadow:0 2px 5px 0 #ccc;-webkit-transition:all 0.25s ease-in-out;-moz-transition:all 0.25s ease-in-out;-ms-transition:all 0.25s ease-in-out;-o-transition:all 0.25s ease-in-out;transition:all 0.25s ease-in-out}.skin-monobook .postedit{top:6em !important}.postedit-faded{opacity:0}.postedit-icon{padding-left:41px;  line-height:25px;background-repeat:no-repeat;background-position:8px 50%}.postedit-icon-checkmark{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABblBMVEUAAAD///////9PfTf///80aRdTgjn///9Feij///////////9Rfzf///////////9PfjZRgDh1o1xOfTb///////+bwYqLtnj///////9PfTa82K////9WhT6YxIL///9QgDdTgzr////////j7uDl7eLq8efi693k7OH///////9UhjuBr2rp9uRUhjr///9YljVKgir///9WiTlYjT3////9/v57vFlbkT5PjC9dlD/5/fhuq09stUTs9uhxuElctCpfnT1huDFloEZloUZmpENmvDZpvDxpvTxqvjxrvT5rvT9rwTxsqktswD5uwkBvuUdxw0NztFBztU9ztVBzwkp0tlJ1xkd2t1R3uVR4w1F4xk54x014yE15uVZ5v1R5xVB6v1R7yFJ8wVh9xVl9yFR9yVd9ylN+xVh+yFd/x1l/yFeAylmEx1+Ny2uY0Hqe04Wj1Ymv3Ze33qLD47TJ5L3O6cPU7Mrq9eb2+/Q4j37OAAAAQHRSTlMAAQIEBAUFBQwPFB4fJCUoKiosQEhJS01RUlZZXmdydXaChYuSlJSWmJmoq6uur8LExcvM19fg5ejt8fX2+Pr7SljgewAAAKpJREFUGBkFwQNCAwAAAMDLtl3LtrG4rWXbtvX77gAgZ6grFwC0bhwNVgKgdPZx8b0dgLi+s7Wn0VoAqpfOI9+BNADZI7fLrz2pSEwGHZuH+78lSK8ZLkLezF3ooyUG3VPXq2USei9WngeyoG195yBYWDF3E/2pAhl1e9Gr8bGT+bfOFCC2fnvh4X7rcqIAQNNu+HT6sxkAjceTL/2ZAIhv+PorBwBJxfkA//dFHSCBy/UTAAAAAElFTkSuQmCC);background-image:url(//bits.wikimedia.org/static-1.24wmf20/resources/src/mediawiki.action/images/green-checkmark.png?2014-09-04T17:10:00Z)!ie;background-position:left}.postedit-close{position:absolute;padding:0 .8em;right:0;top:0;font-size:1.25em;font-weight:bold;line-height:2.3em;color:black;text-shadow:0 0.0625em 0 white;text-decoration:none;opacity:0.2;filter:alpha(opacity=20)}.postedit-close:hover{color:black;text-decoration:none;opacity:0.4;filter:alpha(opacity=40)}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:b40a09e1ba6e693613cca7bb2511c533 */
+.mw-collapsible-toggle{float:right;-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;user-select:none}.mw-customtoggle,.mw-collapsible-toggle{cursor:pointer} caption .mw-collapsible-toggle{float:none} li .mw-collapsible-toggle{float:none} .mw-collapsible-toggle-li{list-style:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:869aa9133c31e6040d4830b259da96a8 */
+.suggestions{overflow:hidden;position:absolute;top:0;left:0;width:0;border:none;z-index:1099;padding:0;margin:-1px 0 0 0}.suggestions-special{position:relative;background-color:white;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0;margin-top:-2px;display:none;padding:0.25em 0.25em;line-height:1.25em}.suggestions-results{background-color:white;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0}.suggestions-result{color:black;margin:0;line-height:1.5em;padding:0.01em 0.25em;text-align:left; overflow:hidden;-o-text-overflow:ellipsis; text-overflow:ellipsis;white-space:nowrap}.suggestions-result-current{background-color:#4C59A6;color:white}.suggestions-special .special-label{color:gray;text-align:left}.suggestions-special .special-query{color:black;font-style:italic;text-align:left}.suggestions-special .special-hover{background-color:silver}.suggestions-result-current .special-label,.suggestions-result-current .special-query{color:white}.highlight{font-weight:bold}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:f8d0c6895ce3ae14434c16b8fca59432 */
+.wp-teahouse-question-form{position:absolute;margin-left:auto;margin-right:auto;background-color:#f4f3f0;border:1px solid #a7d7f9;padding:1em}#wp-th-question-ask{float:right}.wp-teahouse-ask a.external{background-image:none !important}.wp-teahouse-respond-form{position:absolute;margin-left:auto;margin-right:auto;background-color:#f4f3f0;border:1px solid #a7d7f9;padding:1em}.wp-th-respond{float:right}.wp-teahouse-respond a.external{background-image:none !important}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8614dfa7ef847fc9bfcc2d1c9f720197 */
+.referencetooltip{position:absolute;list-style:none;list-style-image:none;opacity:0;font-size:10px;margin:0;z-index:5;padding:0}.referencetooltip li{border:#080086 2px solid;max-width:260px;padding:10px 8px 13px 8px;margin:0px;background-color:#F7F7F7;box-shadow:2px 4px 2px rgba(0,0,0,0.3);-moz-box-shadow:2px 4px 2px rgba(0,0,0,0.3);-webkit-box-shadow:2px 4px 2px rgba(0,0,0,0.3)}.referencetooltip li+li{margin-left:7px;margin-top:-2px;border:0;padding:0;height:3px;width:0px;background-color:transparent;box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none;border-top:12px #080086 solid;border-right:7px transparent solid;border-left:7px transparent solid}.referencetooltip>li+li::after{content:'';border-top:8px #F7F7F7 solid;border-right:5px transparent solid;border-left:5px transparent solid;margin-top:-12px;margin-left:-5px;z-index:1;height:0px;width:0px;display:block}.client-js body .referencetooltip li li{border:none;box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none;height:auto;width:auto;margin:auto;padding:0;position:static}.RTflipped{padding-top:13px}.referencetooltip.RTflipped li+li{position:absolute;top:2px;border-top:0;border-bottom:12px #080086 solid}.referencetooltip.RTflipped li+li::after{border-top:0;border-bottom:8px #F7F7F7 solid;position:absolute;margin-top:7px}.RTsettings{float:right;height:16px;width:16px;cursor:pointer;background-image:url(//upload.wikimedia.org/wikipedia/commons/e/ed/Cog.png);margin-top:-9px;margin-right:-7px;-webkit-transition:opacity 0.15s;-moz-transition:opacity 0.15s;-o-transition:opacity 0.15s;-ms-transition:opacity 0.15s;transition:opacity 0.15s;opacity:0.6;filter:alpha(opacity=60)}.RTsettings:hover{opacity:1;filter:alpha(opacity=100)}.RTTarget{border:#080086 2px solid}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:7efa21f6db726653194905048a6b006a */
+.skin-vector li.GA,.skin-monobook li.GA,.skin-modern li.GA{list-style-image:url(//upload.wikimedia.org/wikipedia/commons/4/42/Monobook-bullet-ga.png)} .skin-vector li.FA,.skin-monobook li.FA{list-style-image:url(//upload.wikimedia.org/wikipedia/commons/d/d4/Monobook-bullet-star.png)}.skin-modern li.FA{list-style-image:url(//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Modern-bullet-star.svg/9px-Modern-bullet-star.svg.png)}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:22ca6c0fc9d0923a196f8a3aec796994 */
+.mw-mmv-overlay{position:fixed;top:0px;left:0px;right:0px;bottom:0px;z-index:1000;background-color:#000000}body.mw-mmv-lightbox-open{overflow-y:auto}body.mw-mmv-lightbox-open #mw-page-base,body.mw-mmv-lightbox-open #mw-head-base,body.mw-mmv-lightbox-open #mw-navigation,body.mw-mmv-lightbox-open #content,body.mw-mmv-lightbox-open #footer,body.mw-mmv-lightbox-open #globalWrapper // monobook{ display:none}body.mw-mmv-lightbox-open > *{ display:none}body.mw-mmv-lightbox-open > .mw-mmv-overlay,body.mw-mmv-lightbox-open > .mw-mmv-wrapper{display:block}.mw-mmv-view-expanded{display:inline-block;border:1px solid #dddddd;padding:5px 10px;padding-left:35px;background-image:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE3LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIKCSBpZD0iTGF5ZXJfMSIgeG1sbnM6Y2M9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL25zIyIgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCgkgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHZpZXdCb3g9IjAgMCA5MDAuNCA3NjgiCgkgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgOTAwLjQgNzY4IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8cG9seWdvbiBmaWxsPSIjNzc3Nzc3IiBwb2ludHM9IjU5OS45LDE4Ni40IDYzMS4xLDIxNy42IDU0NS41LDMwMy4yIDUyNC4xLDI4MS43IDUxOSwzNjkuNiA2MDYuOSwzNjQuNiA1ODUuNCwzNDMuMSA2NzEsMjU3LjUgCgkJNzAyLjIsMjg4LjcgNzA5LjIsMTc5LjQgCSIvPgoJPHBvbHlnb24gZmlsbD0iIzc3Nzc3NyIgcG9pbnRzPSI1NDUuNSwyNjguOCA1ODcuNiwyMjcgNTAzLjUsMjI3IDU0MS4zLDI2NC44IAkiLz4KCTxwYXRoIGZpbGw9IiM3Nzc3NzciIGQ9Ik01MjAuNCwzOTMuOWwtMjcuMywxLjZsMS42LTI3LjNsNS04Ny43bDMuMS01My41SDE5MS4ydjM2Mmg0NzFWMzg1LjhsLTUzLjgsMy4xTDUyMC40LDM5My45eiBNNjExLjIsNTQxCgkJSDIzNy43bDExMC41LTE0NC4xTDM2NSwzOTBsMTA0LjQsMTA5LjNsNTYuNS0zMy43bDg1LjIsNzUuMUw2MTEuMiw1NDFMNjExLjIsNTQxeiIvPgoJPHBvbHlnb24gZmlsbD0iIzc3Nzc3NyIgcG9pbnRzPSI2MjQuMiwzNDcuMyA2NjIuMiwzODUuMyA2NjIuMiwzMDEgNjIwLDM0My4xIAkiLz4KPC9nPgo8L3N2Zz4K);background-image:url(//bits.wikimedia.org/static-1.24wmf20/extensions/MultimediaViewer/resources/mmv/img/expand.svg?2014-09-04T17:13:20Z)!ie;background-position:left;background-repeat:no-repeat}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d5fc0df1ca4baac4bc378e14c7f75b92 */
+#p-lang .uls-settings-trigger{background:transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAgCAMAAAAVMLmlAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAALpQTFRF////W1tbgICAWVlZgICAUVFRgICAWVlZhYWFUlJShYWFVFRUgYGBVVVVgYGBVVVVgICAVFRUVVVVVlZWgYGBgICAVFRUgYGBVFRUgICAgYGBVVVVVVVVgYGBVlZWgYGBVFRUgICAVFRUgICAVVVVgICAVlZWgICAVFRUgICAVVVVgICAVFRUgICAVlZWgICAVVVVgICAVVVVgICAVVVVgICAVVVVgICAVVVVgICAVVVVgICAVVVVgICA9Fa9bgAAADx0Uk5TAA4OFBQWFhcXGRlJSUtLWlpbXV9fYGFhZGRlZmlpa2twcIiIioqPj5GRn5+goKGh6+vv7/Dw+fn8/P7+YuRUVgAAAOlJREFUGBmNwcdWAgEURMFLFCUaAcWAEhQYHBRmCN3//1u+BYcVC6s4p2U3OLrrVxN7Xn7uELoH5w65Dx1g6JNnoLazfz++VnZehkZir4pQ3NjzBg5TwtgBhzFh6kDr294UobiykxZc7ezVdLyx8yrw6pM+8GjnDjsf7gj3/WpiJ7Vhl6OW3eC/mlKdo5teZSHNSoM24XqvTCHTvg0MdDIASpn08/6ZSlkJ6jMpLUBhLc3qKEwIIwUURoSJAs2ltC5AIZUWTbjcSulktJayCvCikx7wJG0VttrfEp5eLpfS4uLtgaOmVOeMP8BAM9RClMO9AAAAAElFTkSuQmCC) no-repeat right top;background:transparent url(//bits.wikimedia.org/static-1.24wmf20/extensions/UniversalLanguageSelector/resources/css/../images/cog-sprite.png?2014-09-04T17:15:00Z) no-repeat right top!ie;background-image:-webkit-linear-gradient(transparent,transparent),url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIxNCIgaGVpZ2h0PSIzMiI+PGRlZnM+PHBhdGggZD0iTTEzLjU4MiA2LjYzMmgtMS4wNjRjLS4xMzMtLjUzOC0uMzU0LTEuMDY1LS42NDUtMS41NTJsLjc1LS43NWMuMTY0LS4xNjQuMTY0LS40MjkgMC0uNTkzbC0xLjM1OS0xLjM2Yy0uMTY0LS4xNjQtLjQzLS4xNjQtLjU5NCAwbC0uNzUuNzVjLS40OS0uMjk0LTEuMDEyLS41MTItMS41NTEtLjY0NXYtMS4wNjRjMC0uMjMxLS4xODctLjQxOC0uNDE5LS40MThoLTEuOTE4Yy0uMjMxIDAtLjQxOC4xODctLjQxOC40MTh2MS4wNjNjLS41NDEuMTM1LTEuMDYyLjM1Mi0xLjU1Mi42NDZsLS43NS0uNzVjLS4xNjQtLjE2NC0uNDI5LS4xNjQtLjU5MyAwbC0xLjM2IDEuMzZjLS4xNjQuMTY0LS4xNjQuNDI5IDAgLjU5M2wuNzUuNzVjLS4yOTIuNDg4LS40OTQgMS4wMTUtLjYyNyAxLjU1MWgtMS4wNjRjLS4yMzEgMC0uNDE4LjE4Ny0uNDE4LjQxOXYxLjkxOGMwIC4yMzEuMTg3LjQxOC40MTguNDE4aDEuMDQ2Yy4xMzQuNTQyLjM1MSAxLjA2Mi42NDUgMS41NTFsLS43NS43NWMtLjE2NC4xNjQtLjE2NC40MjkgMCAuNTkzbDEuMzYgMS4zNmMuMTY0LjE2NC40MjkuMTY0LjU5MyAwbC43NS0uNzVjLjQ5MS4yOTYgMS4wMS40OTMgMS41NTEuNjI3djEuMDYzYy4wMDEuMjMzLjE4OC40Mi40MTkuNDJoMS45MThjLjIzMSAwIC40MTktLjE4Ny40MTktLjQxOHYtMS4wNjNjLjU0Mi0uMTM0IDEuMDYxLS4zMzMgMS41NTEtLjYyN2wuNzUuNzVjLjE2NC4xNjQuNDMuMTY0LjU5NCAwbDEuMzU5LTEuMzZjLjE2NC0uMTY0LjE2NC0uNDI5IDAtLjU5M2wtLjc1LS43NWMuMjk1LS40ODkuNTEtMS4wMTMuNjQ1LTEuNTUxaDEuMDY0Yy4yMy0uMDAyLjQxOC0uMTg5LjQxOC0uNDJ2LTEuOTE4YzAtLjIzMi0uMTg4LS40MTgtLjQxOC0uNDE4em0tNi41ODIgNC4wMTJjLTEuNDYxIDAtMi42NDUtMS4xODQtMi42NDUtMi42NDRzMS4xODQtMi42NDQgMi42NDUtMi42NDQgMi42NDUgMS4xODQgMi42NDUgMi42NDQtMS4xODQgMi42NDQtMi42NDUgMi42NDR6IiBpZD0iYSIvPjwvZGVmcz48dXNlIHhsaW5rOmhyZWY9IiNhIiBmaWxsPSIjODA4MDgwIi8+PHVzZSB4bGluazpocmVmPSIjYSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAxNikiIGZpbGw9IiM1NTUiLz48L3N2Zz4=);background-image:-webkit-linear-gradient(transparent,transparent),url(//bits.wikimedia.org/static-1.24wmf20/extensions/UniversalLanguageSelector/resources/css/../images/cog-sprite.svg?2014-09-04T17:15:00Z)!ie;background-image:linear-gradient(transparent,transparent),url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIxNCIgaGVpZ2h0PSIzMiI+PGRlZnM+PHBhdGggZD0iTTEzLjU4MiA2LjYzMmgtMS4wNjRjLS4xMzMtLjUzOC0uMzU0LTEuMDY1LS42NDUtMS41NTJsLjc1LS43NWMuMTY0LS4xNjQuMTY0LS40MjkgMC0uNTkzbC0xLjM1OS0xLjM2Yy0uMTY0LS4xNjQtLjQzLS4xNjQtLjU5NCAwbC0uNzUuNzVjLS40OS0uMjk0LTEuMDEyLS41MTItMS41NTEtLjY0NXYtMS4wNjRjMC0uMjMxLS4xODctLjQxOC0uNDE5LS40MThoLTEuOTE4Yy0uMjMxIDAtLjQxOC4xODctLjQxOC40MTh2MS4wNjNjLS41NDEuMTM1LTEuMDYyLjM1Mi0xLjU1Mi42NDZsLS43NS0uNzVjLS4xNjQtLjE2NC0uNDI5LS4xNjQtLjU5MyAwbC0xLjM2IDEuMzZjLS4xNjQuMTY0LS4xNjQuNDI5IDAgLjU5M2wuNzUuNzVjLS4yOTIuNDg4LS40OTQgMS4wMTUtLjYyNyAxLjU1MWgtMS4wNjRjLS4yMzEgMC0uNDE4LjE4Ny0uNDE4LjQxOXYxLjkxOGMwIC4yMzEuMTg3LjQxOC40MTguNDE4aDEuMDQ2Yy4xMzQuNTQyLjM1MSAxLjA2Mi42NDUgMS41NTFsLS43NS43NWMtLjE2NC4xNjQtLjE2NC40MjkgMCAuNTkzbDEuMzYgMS4zNmMuMTY0LjE2NC40MjkuMTY0LjU5MyAwbC43NS0uNzVjLjQ5MS4yOTYgMS4wMS40OTMgMS41NTEuNjI3djEuMDYzYy4wMDEuMjMzLjE4OC40Mi40MTkuNDJoMS45MThjLjIzMSAwIC40MTktLjE4Ny40MTktLjQxOHYtMS4wNjNjLjU0Mi0uMTM0IDEuMDYxLS4zMzMgMS41NTEtLjYyN2wuNzUuNzVjLjE2NC4xNjQuNDMuMTY0LjU5NCAwbDEuMzU5LTEuMzZjLjE2NC0uMTY0LjE2NC0uNDI5IDAtLjU5M2wtLjc1LS43NWMuMjk1LS40ODkuNTEtMS4wMTMuNjQ1LTEuNTUxaDEuMDY0Yy4yMy0uMDAyLjQxOC0uMTg5LjQxOC0uNDJ2LTEuOTE4YzAtLjIzMi0uMTg4LS40MTgtLjQxOC0uNDE4em0tNi41ODIgNC4wMTJjLTEuNDYxIDAtMi42NDUtMS4xODQtMi42NDUtMi42NDRzMS4xODQtMi42NDQgMi42NDUtMi42NDQgMi42NDUgMS4xODQgMi42NDUgMi42NDQtMS4xODQgMi42NDQtMi42NDUgMi42NDR6IiBpZD0iYSIvPjwvZGVmcz48dXNlIHhsaW5rOmhyZWY9IiNhIiBmaWxsPSIjODA4MDgwIi8+PHVzZSB4bGluazpocmVmPSIjYSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAxNikiIGZpbGw9IiM1NTUiLz48L3N2Zz4=);background-image:linear-gradient(transparent,transparent),url(//bits.wikimedia.org/static-1.24wmf20/extensions/UniversalLanguageSelector/resources/css/../images/cog-sprite.svg?2014-09-04T17:15:00Z)!ie;height:16px;width:14px;float:right;cursor:pointer}.skin-vector #p-lang .uls-settings-trigger{ margin-top:3px}#p-lang .uls-settings-trigger:hover{background-position:right -16px}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:cb742b25cdf5f0872569a87dbf62d94d */
+.badge-goodarticle{list-style-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAANBAMAAACJLlk1AAAAAXNSR0IArs4c6QAAACFQTFRFAAAAbGxsbm5ucXFxc3Nzd3d3enp6e3t7fX19f39/iYmJftgPsQAAAAF0Uk5TAEDm2GYAAAAwSURBVAhbY2DACSaASQEQwSoKJFoEBVUaGJgFBYWBHEVBAyBpCCaFkoCKuAoYqhgAamoEibSxbiMAAAAASUVORK5CYII=);list-style-image:url(//bits.wikimedia.org/static-1.24wmf20/extensions/Wikidata/extensions/WikimediaBadges/resources/skins/default/../../images/badge-silver-star.png?2014-09-04T17:15:00Z)!ie}.badge-featuredarticle{list-style-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAANBAMAAACJLlk1AAAAJFBMVEX8/vz8wjT8viT83pT8ylT88tz80mz8xkT82oT84pz8xjz81nwKqN0kAAAAAXRSTlMAQObYZgAAADFJREFUCNdjYMAJJoBJBRDBpgYkTJSURAwY2JWUtIAcIaUFQLIITCpuBCpibWBoZQAAfGEGEiyyYyMAAAAASUVORK5CYII=);list-style-image:url(//bits.wikimedia.org/static-1.24wmf20/extensions/Wikidata/extensions/WikimediaBadges/resources/skins/default/../../images/badge-golden-star.png?2014-09-04T17:15:00Z)!ie}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:63ed31fd06e3fcbf58d83b2112020db3 */
+.suggestions a.mw-searchSuggest-link,.suggestions a.mw-searchSuggest-link:hover,.suggestions a.mw-searchSuggest-link:active,.suggestions a.mw-searchSuggest-link:focus{color:black;text-decoration:none}.suggestions-result-current a.mw-searchSuggest-link,.suggestions-result-current a.mw-searchSuggest-link:hover,.suggestions-result-current a.mw-searchSuggest-link:active,.suggestions-result-current a.mw-searchSuggest-link:focus{color:white}.suggestions a.mw-searchSuggest-link .special-query{ overflow:hidden;-o-text-overflow:ellipsis; text-overflow:ellipsis;white-space:nowrap}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:ae3fa4570b5ac0c6cf7b3776c8ae4d6f */
+ 
+rel="stylesheet">
+ 
+a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */
+ 
+ 
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Clear","wgTitle":"Clear","wgCurRevisionId":603710121,"wgRevisionId":603710121,"wgArticleId":2353564,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All article disambiguation pages","All disambiguation pages","Disambiguation pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Clear","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["ru","uk","be","en","*"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q400623"});
+}
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-user-rights":true,"echo-subscriptions-web-user-rights":true,"echo-subscriptions-email-other":false,
+"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","multimediaviewer-enable":true,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":
+false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"searchNs2600":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-geonotice":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"gadget-featured-articles-links":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:8d55686787f352ccb6a28352f979b72d */
+}
+ 
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+ 
+ 
+ 
+undefined@media print { sup, sub, p { line-height: normal; } } div.overflowbugx { overflow-x: scroll !important; overflow-y: hidden !important; } div.overflowbugy { overflow-y: scroll !important; overflow-x: hidden !important; } .iezoomfix div, .iezoomfix table { zoom: 1; } 
+ 
+#cn-toggle-box {
+  float: right;
+}
+.wlm_2012_org_image {
+  border: 0 
+}
+ 
+var cn_rewrite_url = function() {
+  url = '';
+  switch(Geo.country) {
+   case 'DZ':
+     url = 'http://www.wikilovesmonuments-dz.com/?pk_campaign=Centralnotice';
+     break;
+   case 'AD':
+     url = 'http://wikilovesmonuments.cat/?pk_campaign=Centralnotice';
+     break;
+   case 'AQ':
+     url = 'http://www.wikilovesmonuments.aq/?pk_campaign=Centralnotice';
+     break;
+   case 'AR':
+     url = 'http://wikilovesmonuments.com.ar/?pk_campaign=Centralnotice';
+     break;
+   case 'AM':
+     url = 'http://www.wikilovesmonuments.am/?pk_campaign=Centralnotice';
+     break;
+   case 'AW':
+     url = 'https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2014_in_Aruba';
+     break;
+   case 'AT':
+     url = 'http://wikilovesmonuments.at/?pk_campaign=Centralnotice';
+     break;
+   case 'AZ':
+     url = '//az.wikipedia.org/wiki/Vikipediya:Viki_Abidələri_Sevir_2014';
+     break;
+   case 'BE':
+     url = 'http://wikilovesmonuments.be/?pk_campaign=Centralnotice';
+     break;
+   case 'BO':
+     url = 'http://wlm.wikimedia.org.bo/?pk_campaign=Centralnotice';
+     break;
+   case 'CM':
+     url = '//commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2014_in_Cameroon';
+     break;
+   case 'CA':
+     url = '//commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2014_Canada';
+     break;
+   case 'CL':
+     url = 'http://www.wikilovesmonuments.cl/?pk_campaign=Centralnotice';
+     break;
+   case 'CN':
+     url = 'http://aiguji.org/?pk_campaign=Centralnotice';
+     break;
+   case 'CO':
+     url = 'http://www.wikilovesmonuments.co/?pk_campaign=Centralnotice';
+     break;
+   case 'CZ':
+     url = 'http://www.wikimilujepamatky.cz/?pk_campaign=Centralnotice';
+     break;
+   case 'EG':
+     url = '//ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%88%D9%8A%D9%83%D9%8A_%D8%AA%D9%87%D9%88%D9%89_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D9%85_2014/%D9%85%D8%B5%D8%B1';
+     break;
+   case 'SV':
+     url = 'http://wikilovesmonumentselsalvador.org/?pk_campaign=Centralnotice';
+     break;
+   case 'EE':
+     url = 'http://wikilovesmonuments.ee/?pk_campaign=Centralnotice';
+     break;
+   case 'FR':
+     url = 'http://wikilovesmonuments.fr/?pk_campaign=Centralnotice';
+     break;
+   case 'DE':
+     url = 'http://www.wikilovesmonuments.de/?pk_campaign=Centralnotice';
+     break;
+   case 'GB':
+     url = 'http://www.wikilovesmonuments.org.uk/?pk_campaign=Centralnotice';
+     break;
+   case 'HK':
+     url = '//commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2014_in_Hong_Kong';
+     break;
+   case 'HU':
+     url = 'http://wikilovesmonuments.hu/?pk_campaign=Centralnotice';
+     break;
+   case 'IN':
+     url = 'http://www.wikilovesmonuments.in/?pk_campaign=Centralnotice';
+     break;
+   case 'IL':
+     url = 'http://www.wlm.org.il/?pk_campaign=Centralnotice';
+     break;
+   case 'IT':
+     url = 'http://www.wikilovesmonuments.it/?pk_campaign=Centralnotice';
+     break;
+   case 'IQ':
+     url = '//commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2014_in_Iraq';
+     break;
+   case 'JO':
+     url = '//commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2014_in_Jordan';
+     break;
+   case 'LU':
+     url = 'http://wikilovesmonuments.be/?pk_campaign=Centralnotice';
+     break;
+   case 'LB':
+     url = '//commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2014_in_Lebanon';
+     break;
+   case 'MX':
+     url = 'http://www.wikilovesmonuments.mx/?pk_campaign=Centralnotice';
+     break;
+   case 'NP':
+     url = '//commons.m.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2014_in_Nepal';
+     break;
+   case 'NL':
+     url = 'http://www.wikilovesmonuments.nl/?pk_campaign=Centralnotice';
+     break;
+   case 'NO':
+     url = '//no.wikipedia.org/wiki/Wikipedia:Wiki_Loves_Monuments_2014';
+     break;
+   case 'PA':
+     url = 'http://www.wlmpanama.org.pa/?pk_campaign=Centralnotice';
+     break;
+   case 'PH':
+     url = 'http://www.wikilovesmonuments.ph/?pk_campaign=Centralnotice';
+     break;
+   case 'PL':
+     url = 'http://wikizabytki.pl/?pk_campaign=Centralnotice';
+     break;
+   case 'PS':
+     url = '//commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2014_in_Palestine';
+     break;
+   case 'RO':
+     url = 'http://wikilovesmonuments.ro/?utm_source=wiki&utm_medium=centralnotice&utm_campaign=2014';
+     break;
+   case 'RU':
+     url = 'http://wikilovesmonuments.ru/?pk_campaign=Centralnotice';
+     break;
+   case 'RS':
+     url = 'http://wlm.rs/?pk_campaign=Centralnotice';
+     break;
+   case 'SK':
+     url = 'http://wikilovesmonuments.sk/?pk_campaign=Centralnotice';
+     break;
+   case 'ZA':
+     url = 'http://www.wikilovesmonuments.co.za/?pk_campaign=Centralnotice';
+     break;
+   case 'ES':
+     url = 'http://www.wikilm.es/?pk_campaign=Centralnotice';
+     break;
+   case 'SE':
+     url = 'http://wikilovesmonuments.se/?pk_campaign=Centralnotice';
+     break;
+   case 'CH':
+     url = 'http://www.wikilovesmonuments.ch/?pk_campaign=Centralnotice';
+     break;
+   case 'SY':
+     url = '//commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2014_in_Syria';
+     break;
+   case 'TW':
+     url = 'http://wikilovesmonuments.tw/?pk_campaign=Centralnotice';
+     break;
+   case 'TH':
+     url = 'http://www.wmth.org/?pk_campaign=Centralnotice';
+     break;
+   case 'TN':
+     url = 'http://www.wikilovesmonuments.tn/?pk_campaign=Centralnotice';
+     break;
+   case 'UA':
+     url = 'http://wlm.org.ua/participation/?pk_campaign=Centralnotice';
+     break;
+   case 'US':
+     url = 'http://wikilovesmonuments.us/?pk_campaign=Centralnotice';
+     break;
+   case 'UY':
+     url = 'http://wikilovesmonuments.uy/?pk_campaign=Centralnotice';
+     break;
+   case 'VE':
+     url = 'http://wlm.wikimedia.org.ve/?pk_campaign=Centralnotice';
+     break;
+   case 'IE':
+     url = 'http://www.wikilovesmonuments.ie/?pk_campaign=Centralnotice';
+     break;
+  }
+ if(url!='') $("div#wlm-banner a.wlm-mainlink").attr("href",url);
+}
+$(document).ready(cn_rewrite_url);
+ 
+href="http://en.wikipedia.org#">
+border="0">
+ 
+class="wlm_2012_org_image" style="margin-top: -17px; margin-left: 15px; float: left;" 
+src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wiki_Loves_Monuments_Logo_notext.svg/60px-Wiki_Loves_Monuments_Logo_notext.svg.png">
+ 
+src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C3%96rebro_slott_resynth.jpg/77px-%C3%96rebro_slott_resynth.jpg">
+class="wlm-mainlink" href="http://en.wikipedia.org//ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%88%D9%8A%D9%83%D9%8A_%D8%AA%D9%87%D9%88%D9%89_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D9%85_2014/%D9%85%D8%B5%D8%B1">
+Wiki 
+Loves Monuments: Photograph a monument, help Wikipedia and 
+win!
+dir="auto">
+Clear
+From Wikipedia, the free encyclopedia
+href="http://en.wikipedia.org#mw-navigation">
+navigation
+, 					
+search
+  
+  
+    
+      data-file-height="1089" data-file-width="1000" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/55px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/73px-Wiktionary-logo-en.svg.png 2x">
+    
+Look up 
+      class="extiw" href="http://en.wikipedia.org//en.wiktionary.org/wiki/clear">
+clear
+ in 
+      Wiktionary, the free dictionary.
+Clear
+ or 
+CLEAR
+ may refer to:
+Contents
+ 
+&nbsp;[
+href="http://en.wikipedia.org#">
+hide
+]&nbsp;
+  
+  href="http://en.wikipedia.org#In_entertainment_and_media">
+1
+ 
+  class="toctext">
+In entertainment and media
+ 
+  
+    
+1.1
+ 
+    
+Literature
+    
+    class="tocnumber">
+1.2
+ 
+Music
+ 
+    
+      
+      class="tocnumber">
+1.2.1
+ 
+Artists and 
+      labels
+      
+1.2.2
+ 
+      
+Albums
+      
+1.2.3
+ 
+      
+Songs
+    
+1.3
+ 
+    
+Television
+  
+2
+ 
+  
+In biology
+  
+3
+ 
+  
+In technology
+  
+4
+ 
+  
+In other uses
+  
+5
+ 
+  
+See also
+In entertainment 
+and media
+[
+title="Edit section: In entertainment and media" href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=edit&amp;section=1&amp;editintro=Template:Disambig_editintro">
+edit
+class="mw-editsection-bracket">
+]
+Literature
+class="mw-editsection-bracket">
+[
+edit
+class="mw-editsection-bracket">
+]
+  
+Clear
+ 
+  (magazine)
+, a fashion, art and luxury and design magazine
+  
+  href="http://en.wikipedia.org/wiki/Clear_(visual_novel)">
+Clear
+ (visual novel)
+, a 2007 
+  adult Japanese visual novel
+Music
+class="mw-editsection-bracket">
+[
+edit
+class="mw-editsection-bracket">
+]
+Artists and 
+labels
+class="mw-editsection-bracket">
+[
+href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=edit&amp;section=4&amp;editintro=Template:Disambig_editintro">
+edit
+class="mw-editsection-bracket">
+]
+  
+Clear (band)
+, a 
+  vegan straight edge hardcore group from Utah
+  
+  href="http://en.wikipedia.org/wiki/Clear_(Christian_band)">
+Clear (Christian band)
+, an American 
+  CCM group from Cambridge, Minnesota
+  
+Clear Entertainment (also C.E. Music), a record label owned by 
+  class="mw-redirect" href="http://en.wikipedia.org/wiki/Worldwide_Pants_Incorporated">
+Worldwide Pants 
+  Incorporated
+Albums
+class="mw-editsection-bracket">
+[
+edit
+class="mw-editsection-bracket">
+]
+  
+Clear
+, 
+  a 1995 album by 
+Bomb the 
+  Bass
+  
+Clear
+, a 2014 EP 
+  by 
+href="http://en.wikipedia.org/wiki/Periphery_(band)">
+Periphery
+  
+  href="http://en.wikipedia.org/wiki/Clear_(Spirit_album)">
+Clear
+, a 1969 album by 
+  href="http://en.wikipedia.org/wiki/Spirit_(band)">
+Spirit
+Songs
+class="mw-editsection-bracket">
+[
+edit
+class="mw-editsection-bracket">
+]
+  
+"Clear" (song)
+, a 
+  1983 single from the Cybotron album 
+Clear
+  
+"
+Clear!
+", a 2009 single from the 
+  Kardinal Offishall album 
+Mr. International
+  
+"CLEAR", a song from the 1992 P-MODEL album 
+  href="http://en.wikipedia.org/wiki/P-Model_(album)">
+P-MODEL
+  
+"Clear", a song from the 2007 Miley Cyrus album 
+  class="mw-redirect" href="http://en.wikipedia.org/wiki/Meet_Miley_Cyrus">
+Meet Miley 
+Cyrus
+Television
+class="mw-editsection-bracket">
+[
+edit
+class="mw-editsection-bracket">
+]
+  
+  href="http://en.wikipedia.org/wiki/Clear_(The_Walking_Dead)">
+"Clear" (
+The Walking Dead
+)
+, 
+  episode 12 of season 3 of 
+The Walking Dead
+ TV series
+In biology
+class="mw-editsection-bracket">
+[
+edit
+class="mw-editsection-bracket">
+]
+  
+clear, the process of dissolving fats or proteins to increase the 
+  transparency of a sample on a 
+microscope 
+  slide
+ and hence improve the visibility of detail.
+In technology
+class="mw-editsection">
+[
+href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=edit&amp;section=9&amp;editintro=Template:Disambig_editintro">
+edit
+class="mw-editsection-bracket">
+]
+  
+Any transmission or data which is not 
+  href="http://en.wikipedia.org/wiki/Encoded">
+encoded
+  
+clear
+ 
+  (Unix)
+, a standard Unix computer operating system command which is used to 
+  clear the screen
+  
+  class="mw-geshi text source-text">
+CLEAR
+ (DOS)
+, an internal 
+  command in Seattle Computer's 86-DOS to high-level format a volume
+  
+Citizen 
+  Law Enforcement Analysis and Reporting
+, a system of relational databases 
+  used by the Chicago Police Department
+  
+  class="new" href="http://en.wikipedia.org/w/index.php?title=CLEAR_Framework_for_Enterprise_Architecture&amp;action=edit&amp;redlink=1">
+CLEAR 
+  Framework for Enterprise Architecture
+, an Enterprise Architecture 
+  meta-model
+  
+Clearwire
+, wireless 
+  internet service products provided in the United States, Belgium, and Spain 
+  marketed as CLEAR, subsidiary of Sprint Corporation
+In other uses
+class="mw-editsection">
+[
+href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=edit&amp;section=10&amp;editintro=Template:Disambig_editintro">
+edit
+class="mw-editsection-bracket">
+]
+  
+Clear 
+  (Scientology)
+, one of two levels a practitioner can achieve on the way to 
+  personal salvation
+  
+Clear (UK 
+  company)
+, a UK-based carbon offsetting company
+  
+Clear, Alaska
+ is 
+  an unincorporated community in Denali Borough, Alaska, United States
+  
+  href="http://en.wikipedia.org/wiki/Registered_Traveler#Clear">
+Clear
+, an airport registered 
+  traveler program
+  
+Cannabis 
+  Law Reform
+ (CLEAR), a United Kingdom political party which campaigns 
+  against cannabis prohibition
+  
+"The Clear" (also known as 
+Tetrahydrogestrinone
+), 
+  an anabolic steroid developed by Patrick Arnold
+See also
+class="mw-editsection-bracket">
+[
+edit
+class="mw-editsection-bracket">
+]
+  
+Claro 
+  (surname)
+  
+Clear 
+  channel (disambiguation)
+  
+Clearance 
+  (disambiguation)
+  
+Clearing 
+  (disambiguation)
+  
+  
+    
+      href="http://en.wikipedia.org/wiki/File:Disambig_gray.svg">
+      src="http://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png" 
+      data-file-height="168" data-file-width="220" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/45px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/60px-Disambig_gray.svg.png 2x">
+    
+      style="padding: 0.25em 0.4em; font-style: italic;">
+This 
+      href="http://en.wikipedia.org/wiki/Help:Disambiguation">
+disambiguation
+ page lists articles 
+      associated with the same title.
+If an 
+      href="http://en.wikipedia.org//en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Clear&amp;namespace=0">
+internal 
+      link
+ led you here, you may wish to change the link to point directly 
+      to the intended article.
+NewPP limit report
+Parsed by mw1054
+CPU time usage: 0.380 seconds
+Real time usage: 0.416 seconds
+Preprocessor visited node count: 1151/1000000
+Preprocessor generated node count: 2252/1500000
+Post‐expand include size: 3832/2048000 bytes
+Template argument size: 498/2048000 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.026/10.000 seconds
+Lua memory usage: 585 KB/50 MB
+-->
+ 
+ -->
+ 
+&lt;img 
+src="http://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" 
+title="" width="1" height="1" style="border: none; position: absolute;" 
+/&gt;
+http://en.wikipedia.org/w/index.php?title=Clear&amp;oldid=603710121
+"					
+href="http://en.wikipedia.org/wiki/Help:Category">
+Categories
+: 
+  
+Disambiguation 
+  pages
+id="mw-hidden-catlinks">
+Hidden categories: 
+  
+All 
+  article disambiguation pages
+  
+All 
+  disambiguation pages
+Navigation menu
+Personal tools
+  
+Create 
+  account
+  
+  accesskey="o" 
+  href="http://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Clear">
+Log 
+in
+Namespaces
+  
+  accesskey="c" href="http://en.wikipedia.org/wiki/Clear">
+Article
+  
+  accesskey="t" href="http://en.wikipedia.org/wiki/Talk:Clear">
+Talk
+aria-labelledby="p-variants-label">
+Variants
+href="http://en.wikipedia.org#">
+Views
+  
+  href="http://en.wikipedia.org/wiki/Clear">
+Read
+  
+  accesskey="e" href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=edit&amp;editintro=Template:Disambig_editintro">
+Edit
+  class="placeholder" style="display: none;">
+More
+tabindex="-1" href="http://en.wikipedia.org#">
+  
+  title="Past versions of this page [alt-h]" accesskey="h" href="http://en.wikipedia.org/w/index.php?title=Clear&amp;action=history">
+View 
+  history
+Search
+href="http://en.wikipedia.org/wiki/Main_Page">
+Navigation
+  
+  accesskey="z" href="http://en.wikipedia.org/wiki/Main_Page">
+Main page
+  
+Contents
+  
+  href="http://en.wikipedia.org/wiki/Portal:Featured_content">
+Featured content
+  
+  href="http://en.wikipedia.org/wiki/Portal:Current_events">
+Current events
+  
+  href="http://en.wikipedia.org/wiki/Special:Random">
+Random article
+  
+Donate 
+  to Wikipedia
+  
+Wikimedia 
+  Shop
+Interaction
+  
+Help
+  
+About 
+  Wikipedia
+  
+  href="http://en.wikipedia.org/wiki/Wikipedia:Community_portal">
+Community portal
+  
+  accesskey="r" href="http://en.wikipedia.org/wiki/Special:RecentChanges">
+Recent changes
+  
+  href="http://en.wikipedia.org//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+Contact 
+page
+Tools
+  
+  accesskey="j" href="http://en.wikipedia.org/wiki/Special:WhatLinksHere/Clear">
+What links 
+here
+  
+  accesskey="k" href="http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Clear">
+Related 
+  changes
+  
+Upload 
+  file
+  
+  accesskey="q" href="http://en.wikipedia.org/wiki/Special:SpecialPages">
+Special pages
+  
+  href="http://en.wikipedia.org/w/index.php?title=Clear&amp;oldid=603710121">
+Permanent link
+  
+Page 
+  information
+  
+  accesskey="g" href="http://en.wikipedia.org//www.wikidata.org/wiki/Q400623">
+Wikidata item
+  
+Cite 
+  this page
+Print/export
+  
+Create 
+  a book
+  
+Download 
+  as PDF
+  
+  href="http://en.wikipedia.org/w/index.php?title=Clear&amp;printable=yes">
+Printable 
+version
+aria-labelledby="p-lang-label">
+Languages
+  
+  href="http://en.wikipedia.org//de.wikipedia.org/wiki/Clear" hreflang="de">
+Deutsch
+  
+  href="http://en.wikipedia.org//fr.wikipedia.org/wiki/Clear" hreflang="fr">
+Français
+  
+  href="http://en.wikipedia.org//it.wikipedia.org/wiki/Clear" hreflang="it">
+Italiano
+  
+  lang="nl" href="http://en.wikipedia.org//nl.wikipedia.org/wiki/Helderheid" 
+  hreflang="nl">
+Nederlands
+  
+  href="http://en.wikipedia.org//ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%A2" 
+  hreflang="ja">
+日本語
+  
+  lang="simple" href="http://en.wikipedia.org//simple.wikipedia.org/wiki/Clear" 
+  hreflang="simple">
+Simple English
+  
+  href="http://en.wikipedia.org//zh.wikipedia.org/wiki/Clear" hreflang="zh">
+中文
+  
+title="Edit interlanguage links" class="wbc-editpage" href="http://en.wikipedia.org//www.wikidata.org/wiki/Q400623#sitelinks-wikipedia" 
+text="Edit links" action="edit">
+Edit 
+links
+  
+ This page was last modified on 11 April 2014 at 
+  07:08.
+  
+Text is available under the 
+  rel="license">
+Creative Commons Attribution-ShareAlike License
+  href="http://en.wikipedia.org//creativecommons.org/licenses/by-sa/3.0/" rel="license">
+;
+   additional terms may apply.  By using this site, you agree to the 
+Terms 
+  of Use
+ and 
+Privacy 
+  Policy
+. Wikipedia® is a registered trademark of the 
+Wikimedia 
+  Foundation, Inc.
+, a non-profit organization.
+  
+Privacy 
+  policy
+  
+About 
+  Wikipedia
+  
+  href="http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer">
+Disclaimers
+  
+Contact 
+  Wikipedia
+  
+Developers
+  
+  href="http://en.wikipedia.org//en.m.wikipedia.org/w/index.php?title=Clear&amp;mobileaction=toggle_view_mobile">
+Mobile 
+  view
+  
+  height="31" alt="Wikimedia Foundation" src="http://bits.wikimedia.org/images/wikimedia-button.png">
+  													 
+  
+  height="31" alt="Powered by MediaWiki" src="http://bits.wikimedia.org/static-1.24wmf20/skins/common/images/poweredby_mediawiki_88x31.png">
+  													 
+/*
+*/
+if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}
+ 
+if(window.mw){
+mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","wikimediaBadges.default"],null,true);
+}
+ 
+ 
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":220,"wgHostname":"mw1165"});
+}

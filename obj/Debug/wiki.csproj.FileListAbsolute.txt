@@ -1,0 +1,38 @@
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\bin\Debug\Bing Translator.exe
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\bin\Debug\Bing Translator.exe.config
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\ResolveAssemblyReference.cache
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing_Translator.Form1.resources
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing_Translator.Properties.Resources.resources
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\ResGen.read.1.tlog
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\ResGen.write.1.tlog
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing Translator.exe
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing Translator.pdb
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\bin\Debug\Bing Translator.pdb
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing_Translator.Form2.resources
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing_Translator.Form3.resources
+D:\wiki arabiiiiccc\Bing Translator\Bing Traslator c#\Bing Translator\Bing Translator\obj\Debug\Bing_Translator.Form4.resources
+D:\wiki arabiiiiccc\New folder\Bing Translator(1)\Bing Translator(1)\Bing Translator\bin\Debug\Bing Translator.exe.config
+D:\wiki arabiiiiccc\New folder\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing Translator.exe
+D:\wiki arabiiiiccc\New folder\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing Translator.pdb
+D:\wiki arabiiiiccc\New folder\Bing Translator(1)\Bing Translator(1)\Bing Translator\bin\Debug\Bing Translator.exe
+D:\wiki arabiiiiccc\New folder\Bing Translator(1)\Bing Translator(1)\Bing Translator\bin\Debug\Bing Translator.pdb
+D:\wiki arabiiiiccc\New folder\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\ResolveAssemblyReference.cache
+D:\wiki arabiiiiccc\New folder\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing_Translator.Form1.resources
+D:\wiki arabiiiiccc\New folder\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing_Translator.Form2.resources
+D:\wiki arabiiiiccc\New folder\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing_Translator.Form3.resources
+D:\wiki arabiiiiccc\New folder\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing_Translator.Form4.resources
+D:\wiki arabiiiiccc\New folder\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing_Translator.Properties.Resources.resources
+D:\wiki arabiiiiccc\New folder\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\ResGen.read.1.tlog
+D:\wiki arabiiiiccc\New folder\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\ResGen.write.1.tlog
+C:\Users\Hoda\Downloads\Bing Translator(1)\Bing Translator(1)\Bing Translator\bin\Debug\Bing Translator.exe.config
+C:\Users\Hoda\Downloads\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing Translator.exe
+C:\Users\Hoda\Downloads\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing Translator.pdb
+C:\Users\Hoda\Downloads\Bing Translator(1)\Bing Translator(1)\Bing Translator\bin\Debug\Bing Translator.exe
+C:\Users\Hoda\Downloads\Bing Translator(1)\Bing Translator(1)\Bing Translator\bin\Debug\Bing Translator.pdb
+C:\Users\Hoda\Downloads\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\wiki.csprojResolveAssemblyReference.cache
+C:\Users\Hoda\Downloads\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing_Translator.Form1.resources
+C:\Users\Hoda\Downloads\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing_Translator.Form2.resources
+C:\Users\Hoda\Downloads\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing_Translator.Form3.resources
+C:\Users\Hoda\Downloads\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing_Translator.Form4.resources
+C:\Users\Hoda\Downloads\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\Bing_Translator.Properties.Resources.resources
+C:\Users\Hoda\Downloads\Bing Translator(1)\Bing Translator(1)\Bing Translator\obj\Debug\wiki.csproj.GenerateResource.Cache
